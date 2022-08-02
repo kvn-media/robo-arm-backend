@@ -1,5 +1,5 @@
-# robo-arm-backend
-The backend for the [robo-arm-backend](https://joy-it.net/en/products/Robot02) robot arm. You can use it with my [Flutter app](https://github.com/floodoo/Joy-it-Grab-it-robot02-frontend).
+# Robo-Arm-backend
+The backend for the [Robo-Arm-backend](https://joy-it.net/en/products/Robot02) robot arm. You can use it with my [Flutter app](https://github.com/floodoo/Joy-it-Grab-it-robot02-frontend).
 
 ## Installation
 Install the backend on your raspberry pi with the [MOTOPI](https://joy-it.net/en/products/RB-Moto3) board.
